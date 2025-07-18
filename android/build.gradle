@@ -1,4 +1,5 @@
 group 'com.ivehement.saf'
+namespace 'com.ekasetiawans.saf'
 version '1.0-SNAPSHOT'
 
 buildscript {
